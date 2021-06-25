@@ -9,7 +9,7 @@ Build upon the [semaio/magento2-configimportexport](https://github.com/semaio/Ma
 **Install via composer**
 
 ```bash
-composer require alpaca/magento2-environmentconfig
+composer require alpaca-sh/magento2-environmentconfig
 ```
 
 **Enable and install the module**

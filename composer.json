@@ -1,5 +1,5 @@
 {
-    "name": "alpaca/magento2-environmentconfig",
+    "name": "alpaca-sh/magento2-environmentconfig",
     "description": "Apply environment specific configuration for Magento 2 projects",
     "require": {
         "php": "^7.3.0",
