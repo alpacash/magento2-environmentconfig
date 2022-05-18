@@ -2,7 +2,6 @@
     "name": "alpaca-sh/magento2-environmentconfig",
     "description": "Apply environment specific configuration for Magento 2 projects",
     "require": {
-        "php": "^7.3.0",
         "semaio/magento2-configimportexport": "^3.5.0"
     },
     "type": "magento2-module",
