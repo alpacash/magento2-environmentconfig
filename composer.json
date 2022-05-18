@@ -1,5 +1,5 @@
 {
-    "name": "alpaca-sh/magento2-environmentconfig",
+    "name": "alpacadotsh/magento2-environmentconfig",
     "description": "Apply environment specific configuration for Magento 2 projects",
     "require": {
         "semaio/magento2-configimportexport": "^3.5.0"
